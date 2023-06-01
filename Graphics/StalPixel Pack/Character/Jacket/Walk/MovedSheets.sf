@@ -1,0 +1,39 @@
+{
+  "textureAtlas": {
+    "texture": "WalkForSheet.png",
+    "regionWidth": 35,
+    "regionHeight": 59
+  },
+  "cycles": {
+    "rightAndUpwards": {
+      "frames": [6,7,8,9,10,11],
+      "isLooping": true,
+      "frameDuration": 0.15
+    },
+    "right": {
+      "frames": [12,13,14,15,16,17],
+      "isLooping": true,
+      "frameDuration": 0.15
+    },
+    "rightAndDown": {
+      "frames": [18,19,20,21,22,23],
+      "isLooping": true,
+      "frameDuration": 0.15
+    },
+    "down": {
+      "frames": [24,25,26,27,28,29],
+      "isLooping": true,
+      "frameDuration": 0.15
+    },
+    "stay": {
+      "frames": [24,24,27,25,24,24],
+      "isLooping": true,
+      "frameDuration": 0.3
+    },
+    "upwards": {
+      "frames": [5,4,3,2,1,0],
+      "isLooping": true,
+      "frameDuration": 0.15
+    }
+  }
+}

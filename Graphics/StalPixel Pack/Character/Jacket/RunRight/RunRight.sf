@@ -1,0 +1,19 @@
+{
+  "textureAtlas": {
+    "texture": "RunRight.png",
+    "regionWidth": 36,
+    "regionHeight": 58
+  },
+  "cycles": {
+    "runRight": {
+      "frames": [0,2,3,4,5,1],
+      "isLooping": true,
+      "frameDuration": 0.149999976
+    },
+    "animation1": {
+      "frames": [],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}

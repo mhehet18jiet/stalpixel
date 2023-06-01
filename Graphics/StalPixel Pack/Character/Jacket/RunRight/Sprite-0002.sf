@@ -1,0 +1,14 @@
+{
+  "textureAtlas": {
+    "texture": "Sprite-0002.png",
+    "regionWidth": 36,
+    "regionHeight": 58
+  },
+  "cycles": {
+    "animation0": {
+      "frames": [],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}

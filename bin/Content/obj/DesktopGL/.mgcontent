@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/bullet.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Enemy/BanditsAimingSheet.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Enemy/BanditsMoveSheet.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Enemy/PigSheets.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/exp.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/font.spritefont</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Particle/ElectraSheet.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Particle/Shot.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/player.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Player/AimingSheet.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Player/MoveSheets.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/03138.mp3</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/akm_draw_full.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/akm_main_shot1.mp3</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/akm_main_shot1.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/death_1.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/electra_hit.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/electra.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/heartbeat.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/morphin.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/tile1.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/tile2.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/tile3.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/tile4.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/tile5.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/UI/Geliy.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/UI/Heal_1.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/UI/HP.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/zombie.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Sound/shot2.mp3</File>
+    <File>Sound/shot1.ogg</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
