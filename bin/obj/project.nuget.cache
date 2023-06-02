@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NNxf60afxo005kVugfdPNEpqAsfRYW8IJid1nO2JNViOI/jhcWerPiOq03aThSJVA7xOBPQ9klYvCjrJIHqo8Q==",
+  "dgSpecHash": "g6iy76z6E7bcvz5qiPIp3IlrESBysPXCXAlhusWfxv3F0R3Wf01rKBJFNgoT3H0cVTLx8KqNA2rXPkhD6M0RGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\95063\\OneDrive\\Документы\\Геймдизайн\\Project002-TopDownShooter\\Project002.csproj",
+  "projectFilePath": "C:\\Users\\95063\\OneDrive\\Документы\\GitHub\\stalpixel\\bin\\Project002.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\95063\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
     "C:\\Users\\95063\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"

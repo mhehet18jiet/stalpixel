@@ -4,39 +4,35 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/bullet.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Enemy/BanditsAimingSheet.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Enemy/BanditsMoveSheet.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Enemy/PigSheets.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/exp.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/font.spritefont</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Particle/ElectraSheet.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Particle/Shot.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/player.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Player/AimingSheet.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Player/MoveSheets.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/03138.mp3</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/akm_draw_full.ogg</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/akm_main_shot1.mp3</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/akm_main_shot1.ogg</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/death_1.ogg</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/electra_hit.ogg</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/electra.ogg</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/heartbeat.ogg</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/morphin.ogg</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/tile1.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/tile2.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/tile3.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/tile4.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/tile5.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/UI/Geliy.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/UI/Heal_1.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/UI/HP.png</File>
-    <File>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/zombie.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Enemy/BanditsAimingSheet.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Enemy/BanditsMoveSheet.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Enemy/PigSheets.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/exp.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/font.spritefont</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Particle/ElectraSheet.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Particle/Shot.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Player/AimingSheet.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Player/MoveSheets.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Sound/03138.mp3</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Sound/akm_draw_full.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Sound/akm_main_shot1.mp3</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Sound/akm_main_shot1.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Sound/death_1.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Sound/electra_hit.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Sound/electra.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Sound/heartbeat.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Sound/morphin.ogg</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Tiles/tile1.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Tiles/tile2.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Tiles/tile3.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Tiles/tile4.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Tiles/tile5.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Tiles/tile6.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/UI/Geliy.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/UI/Heal_1.png</File>
+    <File>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/UI/HP.png</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

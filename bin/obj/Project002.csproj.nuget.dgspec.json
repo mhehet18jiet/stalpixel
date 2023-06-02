@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\95063\\OneDrive\\Документы\\Геймдизайн\\Project002-TopDownShooter\\Project002.csproj": {}
+    "C:\\Users\\95063\\OneDrive\\Документы\\GitHub\\stalpixel\\bin\\Project002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\95063\\OneDrive\\Документы\\Геймдизайн\\Project002-TopDownShooter\\Project002.csproj": {
+    "C:\\Users\\95063\\OneDrive\\Документы\\GitHub\\stalpixel\\bin\\Project002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\95063\\OneDrive\\Документы\\Геймдизайн\\Project002-TopDownShooter\\Project002.csproj",
+        "projectUniqueName": "C:\\Users\\95063\\OneDrive\\Документы\\GitHub\\stalpixel\\bin\\Project002.csproj",
         "projectName": "Project002",
-        "projectPath": "C:\\Users\\95063\\OneDrive\\Документы\\Геймдизайн\\Project002-TopDownShooter\\Project002.csproj",
+        "projectPath": "C:\\Users\\95063\\OneDrive\\Документы\\GitHub\\stalpixel\\bin\\Project002.csproj",
         "packagesPath": "C:\\Users\\95063\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\95063\\OneDrive\\Документы\\Геймдизайн\\Project002-TopDownShooter\\obj\\",
+        "outputPath": "C:\\Users\\95063\\OneDrive\\Документы\\GitHub\\stalpixel\\bin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

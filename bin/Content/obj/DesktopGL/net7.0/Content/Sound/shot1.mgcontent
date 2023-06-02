@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/akm_main_shot1.ogg</SourceFile>
+  <SourceFile>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Sound/akm_main_shot1.ogg</SourceFile>
   <SourceTime>2023-04-14T12:39:31.1169493+05:00</SourceTime>
-  <DestFile>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/bin/DesktopGL/Content/Sound/shot1.xnb</DestFile>
-  <DestTime>2023-06-01T13:45:44.6292703+05:00</DestTime>
+  <DestFile>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/bin/DesktopGL/Content/Sound/shot1.xnb</DestFile>
+  <DestTime>2023-06-02T12:18:49.0226683+05:00</DestTime>
   <Importer>OggImporter</Importer>
   <ImporterTime>2022-07-26T16:44:56+05:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

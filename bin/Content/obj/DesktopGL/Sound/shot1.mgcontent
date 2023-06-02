@@ -3,7 +3,7 @@
   <SourceFile>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Sound/akm_main_shot1.ogg</SourceFile>
   <SourceTime>2023-04-14T12:39:31.1169493+05:00</SourceTime>
   <DestFile>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/bin/DesktopGL/Sound/shot1.xnb</DestFile>
-  <DestTime>2023-06-01T18:08:21.9309009+05:00</DestTime>
+  <DestTime>2023-06-02T12:17:21.2161405+05:00</DestTime>
   <Importer>OggImporter</Importer>
   <ImporterTime>2022-07-26T16:44:56+05:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

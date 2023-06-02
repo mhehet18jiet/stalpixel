@@ -2,7 +2,7 @@ namespace Project002;
 
 public class Background
 {
-    private readonly Point _mapTileSize = new(20, 10);
+    private readonly Point _mapTileSize = new(50, 50);
     private readonly Sprite[,] _tiles;
     public Point TileSize { get; private set; }
     public Point MapSize { get; private set; }
@@ -12,8 +12,8 @@ public class Background
     {
         _tiles = new Sprite[_mapTileSize.X, _mapTileSize.Y];
 
-        List<Texture2D> textures = new(5);
-        for (int i = 1; i < 6; i++) textures.Add(Globals.Content.Load<Texture2D>($"tile{i}"));       
+        List<Texture2D> textures = new(6);
+        for (int i = 1; i < 7; i++) textures.Add(Globals.Content.Load<Texture2D>($"Tiles/tile{i}"));       
 
         TileSize = new(textures[0].Width, textures[0].Height);
         MapSize = new(TileSize.X * _mapTileSize.X, TileSize.Y * _mapTileSize.Y);

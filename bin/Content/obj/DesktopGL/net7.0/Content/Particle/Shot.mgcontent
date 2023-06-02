@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/Particle/Shot.png</SourceFile>
+  <SourceFile>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/Particle/Shot.png</SourceFile>
   <SourceTime>2023-04-28T14:10:51.6717252+05:00</SourceTime>
-  <DestFile>C:/Users/95063/OneDrive/Документы/Геймдизайн/Project002-TopDownShooter/Content/bin/DesktopGL/Content/Particle/Shot.xnb</DestFile>
-  <DestTime>2023-05-30T18:53:04.4831969+05:00</DestTime>
+  <DestFile>C:/Users/95063/OneDrive/Документы/GitHub/stalpixel/bin/Content/bin/DesktopGL/Content/Particle/Shot.xnb</DestFile>
+  <DestTime>2023-06-02T12:18:46.8436899+05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T16:44:56+05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
