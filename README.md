@@ -43,5 +43,9 @@
 - `Скорость перезарядки`
 
 Скриншоты, демонстрирующие понимание поведение пользователя в игре:
+
 ![image](https://github.com/mhehet18jiet/stalpixel/assets/90757310/ac910c25-18e7-43d3-a8b2-038cf0355301)
+
+![image](https://github.com/mhehet18jiet/stalpixel/assets/90757310/8adbcefe-33fb-41ef-bcdb-2dfa54527911)
+
 
